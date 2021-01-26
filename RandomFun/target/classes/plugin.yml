@@ -1,0 +1,8 @@
+name: randomFun
+version: 1.0.2
+main: com.darrime.main.Main
+api-version: 1.16
+
+commands:
+  h:
+    description: 내가 아무렇게나 만든 랜덤 뽑기 플러그인
